@@ -13,28 +13,28 @@
 	<link>https://kiboles.github.io/page</link>
 	<description>My blog</description>
 	<language>en</language>
-	<lastBuildDate>Sat, 30 Jul 2022 02:00:02 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 30 Jul 2022 02:30:02 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
 	<item>
-		<title>tailandia</title>
-		<description><![CDATA[<p>tailandia</p>]]></description>
-		<link>https://kiboles.github.io/page/?r-tailandia</link>
+		<title>truques</title>
+		<description><![CDATA[<p>truques</p>]]></description>
+		<link>https://kiboles.github.io/page/?r-truques</link>
 		<dc:creator>Ralph Wiggum</dc:creator>
-		<guid>https://kiboles.github.io/page/?r-tailandia</guid>
-		<pubDate>Sat, 30 Jul 2022 02:00:02 +0000</pubDate>
-		<content:encoded><![CDATA[tailandia]]></content:encoded>
+		<guid>https://kiboles.github.io/page/?r-truques</guid>
+		<pubDate>Sat, 30 Jul 2022 02:30:02 +0000</pubDate>
+		<content:encoded><![CDATA[truques]]></content:encoded>
 	</item>
 
 	<item>
-		<title>compositores</title>
-		<description><![CDATA[<p>compositores</p>]]></description>
-		<link>https://kiboles.github.io/page/?l-compositores</link>
+		<title>guimarães</title>
+		<description><![CDATA[<p>guimarães</p>]]></description>
+		<link>https://kiboles.github.io/page/?l-guimarães</link>
 		<dc:creator>Ralph Wiggum</dc:creator>
-		<guid>https://kiboles.github.io/page/?l-compositores</guid>
-		<pubDate>Sat, 30 Jul 2022 02:00:02 +0000</pubDate>
-		<content:encoded><![CDATA[compositores]]></content:encoded>
+		<guid>https://kiboles.github.io/page/?l-guimarães</guid>
+		<pubDate>Sat, 30 Jul 2022 02:30:02 +0000</pubDate>
+		<content:encoded><![CDATA[guimarães]]></content:encoded>
 	</item>
 
 </channel>
